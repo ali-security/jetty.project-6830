@@ -15,8 +15,8 @@ ee9.jakarta.annotation.api.version?=@jakarta.annotation.api.version@
 
 [lib]
 lib/jetty-ee9-annotations-${jetty.version}.jar
-lib/ee9-annotations/asm-${ee9.asm.version}.jar
-lib/ee9-annotations/asm-analysis-${ee9.asm.version}.jar
-lib/ee9-annotations/asm-commons-${ee9.asm.version}.jar
-lib/ee9-annotations/asm-tree-${ee9.asm.version}.jar
+lib/ee9-annotations/asm-${asm.version}.jar
+lib/ee9-annotations/asm-analysis-${asm.version}.jar
+lib/ee9-annotations/asm-commons-${asm.version}.jar
+lib/ee9-annotations/asm-tree-${asm.version}.jar
 lib/ee9-annotations/jakarta.annotation-api-${ee9.jakarta.annotation.api.version}.jar

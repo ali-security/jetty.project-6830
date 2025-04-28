@@ -11,8 +11,8 @@ ee10-plus
 
 [lib]
 lib/jetty-ee10-annotations-${jetty.version}.jar
-lib/ee10-annotations/asm-@ee10.asm.version@.jar
-lib/ee10-annotations/asm-analysis-@ee10.asm.version@.jar
-lib/ee10-annotations/asm-commons-@ee10.asm.version@.jar
-lib/ee10-annotations/asm-tree-@ee10.asm.version@.jar
+lib/ee10-annotations/asm-@asm.version@.jar
+lib/ee10-annotations/asm-analysis-@asm.version@.jar
+lib/ee10-annotations/asm-commons-@asm.version@.jar
+lib/ee10-annotations/asm-tree-@asm.version@.jar
 lib/ee10-annotations/jakarta.annotation-api-@ee10.jakarta.annotation.api.version@.jar
