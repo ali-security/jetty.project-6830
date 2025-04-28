@@ -9,14 +9,10 @@ ee9
 [depend]
 ee9-plus
 
-[ini]
-ee9.asm.version?=@asm.version@
-ee9.jakarta.annotation.api.version?=@jakarta.annotation.api.version@
-
 [lib]
 lib/jetty-ee9-annotations-${jetty.version}.jar
-lib/ee9-annotations/asm-${asm.version}.jar
-lib/ee9-annotations/asm-analysis-${asm.version}.jar
-lib/ee9-annotations/asm-commons-${asm.version}.jar
-lib/ee9-annotations/asm-tree-${asm.version}.jar
-lib/ee9-annotations/jakarta.annotation-api-${ee9.jakarta.annotation.api.version}.jar
+lib/ee9-annotations/asm-@asm.version@.jar
+lib/ee9-annotations/asm-analysis-@asm.version@.jar
+lib/ee9-annotations/asm-commons-@asm.version@.jar
+lib/ee9-annotations/asm-tree-@asm.version@.jar
+lib/ee9-annotations/jakarta.annotation-api-@ee9.jakarta.annotation.api.version@.jar
