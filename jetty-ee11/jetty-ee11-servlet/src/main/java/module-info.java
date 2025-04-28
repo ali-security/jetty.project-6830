@@ -41,5 +41,5 @@ module org.eclipse.jetty.ee11.servlet
     exports org.eclipse.jetty.ee11.servlet.jmx to
          org.eclipse.jetty.jmx;
 
-    uses Authenticator.Factory;
+    uses org.eclipse.jetty.security.Authenticator.Factory;
 }
