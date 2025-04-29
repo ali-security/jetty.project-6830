@@ -49,7 +49,6 @@ import org.eclipse.jetty.ee9.security.SecurityHandler;
 import org.eclipse.jetty.ee9.servlet.ErrorPageErrorHandler;
 import org.eclipse.jetty.ee9.servlet.ServletContextHandler;
 import org.eclipse.jetty.ee9.servlet.ServletHandler;
-import org.eclipse.jetty.ee9.webapp.WebAppClassLoading;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.Deployable;
 import org.eclipse.jetty.server.Handler;
