@@ -13,6 +13,6 @@ ee11-plus
 lib/jetty-ee11-annotations-${jetty.version}.jar
 lib/ee11-annotations/asm-@asm.version@.jar
 lib/ee11-annotations/asm-analysis-@asm.version@.jar
-lib/ee11-annotations/asm-commons-@ee11.asm.version@.jar
+lib/ee11-annotations/asm-commons-@asm.version@.jar
 lib/ee11-annotations/asm-tree-@asm.version@.jar
 lib/ee11-annotations/jakarta.annotation-api-@ee11.jakarta.annotation.api.version@.jar
